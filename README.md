@@ -11,6 +11,7 @@ https://github.com/sk-lkp/NextGen-Trading/blob/bcc105ccb54a3528b1e0c2f0d5d13a53c
 https://github.com/sk-lkp/NextGen-Trading/blob/c331a62a1f9f2ff32d050a7b7177d040de475209/Screenshot%202024-08-15%20215459.png
 https://github.com/sk-lkp/NextGen-Trading/blob/b15502db474a9434425b2c8c512cf68a65dce318/Screenshot%202024-08-15%20215512.png
 https://github.com/sk-lkp/NextGen-Trading/blob/392fca093f1be05d39144a43213f654ce8deaf90/Screenshot%202024-08-15%20215531.png
+https://github.com/sk-lkp/NextGen-Trading/blob/f70162508ac0f7d45eaac28f55f27479cb4f4c1e/Screenshot%202024-08-15%20215549.png
 
 
 # React + Vite
