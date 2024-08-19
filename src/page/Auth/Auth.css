@@ -1,0 +1,11 @@
+.authContainer{
+    background-image: url("https://img.freepik.com/free-photo/cyberpunk-bitcoin-illustration_23-2151611154.jpg?t=st=1723199100~exp=1723202700~hmac=8485eb5c8e20a4c84ec4fa0a1216f142fa12e80c1dde5bb0e76afbac68d72f9e&w=1380 ");
+    height: 100vh;
+    width: 100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bgBlure{
+    backdrop-filter: blur(8px);
+}
