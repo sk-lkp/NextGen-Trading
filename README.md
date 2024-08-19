@@ -1,4 +1,5 @@
 https://github.com/sk-lkp/NextGen-Trading/blob/18f03ffa40801356f550879735f93fb50af7ebb4/Screenshot%202024-08-14%20222339.png
+https://github.com/sk-lkp/NextGen-Trading/blob/75b24e8c9ec41455ed816c1c792248023314d246/Screenshot%202024-08-15%20215359.png
 
 
 
