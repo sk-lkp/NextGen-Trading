@@ -2,7 +2,7 @@ https://github.com/sk-lkp/NextGen-Trading/blob/18f03ffa40801356f550879735f93fb50
 https://github.com/sk-lkp/NextGen-Trading/blob/75b24e8c9ec41455ed816c1c792248023314d246/Screenshot%202024-08-15%20215359.png
 https://github.com/sk-lkp/NextGen-Trading/blob/1101710cd15d71e0290239af4470aab07efab641/Screenshot%202024-08-18%20205546.png
 https://github.com/sk-lkp/NextGen-Trading/blob/178cf0eec414c308c21e31112807c605e4cc4a41/Screenshot%202024-08-18%20205608.png
-
+https://github.com/sk-lkp/NextGen-Trading/blob/6c45df59b0605993e590545492451fbaf182ca18/Screenshot%202024-08-20%20034135.png
 
 
 
